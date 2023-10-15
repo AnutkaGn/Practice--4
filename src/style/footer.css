@@ -5,7 +5,7 @@
     bottom:0px;
     height:80px;
     width: 100%;
-
+    border: 5px solid rgb(146, 233, 196);
 }
 .footer p{
     text-align: center;

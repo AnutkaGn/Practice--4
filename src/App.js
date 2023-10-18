@@ -8,8 +8,10 @@ function App() {
   return (
     <>
       <Header title="Header"/>
-      <Sidebar title="Sidebar"/>
-      <Content title="Content"/>
+      <div>
+        <Sidebar title="Sidebar"/>
+        <Content title="Content"/>
+      </div>
       <Footer title="Footer"/>
     </>
   );

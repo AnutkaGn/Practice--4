@@ -1,11 +1,8 @@
 .footer{
     background-color: rgb(165, 230, 202);
-    position:fixed;
-    left:0px;
-    bottom:0px;
     height:80px;
-    width: 100%;
     border: 5px solid rgb(146, 233, 196);
+    margin-top: auto;
 }
 .footer p{
     text-align: center;
